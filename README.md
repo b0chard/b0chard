@@ -1,3 +1,7 @@
+## tenkyuu
+
+[https://tenkyuu.dev/images/pfp]
+
 Introduced in HTML in grade school.
 Got hooked.
 Go learned more about it.
@@ -10,6 +14,6 @@ Now, codes web stuffs.
 Soon to be Web Developer. ✨
 
 <!---
-raintorres/raintorres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+tenkyuu/tenkyuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
