@@ -1,8 +1,10 @@
 # Hello World!
 
 <div align="center">
-  <img src="https://pbs.twimg.com/profile_images/1773335496179232768/S69wGTu-.jpg"
-       width="200px">
+  <a href="https://tenkyuu.dev">
+    <img src="https://pbs.twimg.com/profile_images/1773335496179232768/S69wGTu-.jpg"
+         width="200px">
+  </a>
   <br><br>
     I'm an awesome 17-year old Filipino web developer<br>
     who loves making hand-coded websites.<br>
@@ -18,4 +20,10 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/HTML.svg" width="50"/><a>&nbsp;</a> 
 	<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/CSS.svg" width="50"/><a>&nbsp;</a> 
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/JavaScript.svg" width="50"/><a>&nbsp;</a>
+</div>
+
+<br><br>
+
+<div align="center">
+  Built with 愛.
 </div>
