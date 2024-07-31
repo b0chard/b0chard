@@ -1,19 +1,21 @@
-## tenkyuu
+# Hello World!
 
-[https://tenkyuu.dev/images/pfp]
+<div align="center">
+  <img src="https://pbs.twimg.com/profile_images/1773335496179232768/S69wGTu-.jpg"
+       width="200px">
+  <br><br>
+    I'm an awesome 17-year old Filipino web developer<br>
+    who loves making hand-coded websites.<br>
+    I was introduced in HTML since grade school.<br>
+    After that, I continued to make websites up until now!
+</div>
 
-Introduced in HTML in grade school.
-Got hooked.
-Go learned more about it.
-Stopped.
-Got busy.
-Got interested with other stuffs.
-Reached high school.
-Determined getting back to it.
-Now, codes web stuffs.
-Soon to be Web Developer. ✨
+----
 
-<!---
-tenkyuu/tenkyuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nichind/nichind/dd073285c74006a8a95048c2eb528b50dfa91730/assets/img/skills.svg"/>
+  <br><br>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/HTML.svg" width="50"/><a>&nbsp;</a> 
+	<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/CSS.svg" width="50"/><a>&nbsp;</a> 
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/JavaScript.svg" width="50"/><a>&nbsp;</a>
+</div>
