@@ -25,5 +25,5 @@
 <br><br>
 
 <div align="center">
-  Built with 愛.
+  Built with <strong>愛.</strong>
 </div>
