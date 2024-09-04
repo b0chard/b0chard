@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://tenkyuu.dev">
-    <img src="https://static.wikia.nocookie.net/tonikaku-kawaii/images/a/a0/Tsukasa12.png/revision/latest?cb=20210310214944" height="250">
+    <img src="assets/takagi-1.jfif" height="250">
   </a>
   <br><br>
     I'm an awesome 17-year old Filipino web developer<br>
