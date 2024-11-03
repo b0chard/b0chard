@@ -22,9 +22,13 @@
 </div>
 
 ## About Me
-17 y.o. web developer. I code on paper and create websites out of it.
-capturing specks of the world through my lens. data hoarder.
-follower of Christ.
+- 17 y.o. web developer.
+- crafting websites out of pen and paper.
+- well... anime watcher.
+- music listener, mostly japanese songs.
+- capturing specks of the world through my lens.
+- data hoarder.
+- follower of Christ.
 
 <br>
 
