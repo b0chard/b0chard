@@ -4,6 +4,8 @@
   <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode">
 </div>
 
+<br>
+
 <div align="center">
 <picture>
   <img height="250" src="assets/takagi.jfif">
