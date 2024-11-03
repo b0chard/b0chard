@@ -22,9 +22,9 @@
 </div>
 
 ## About Me
-I code on paper and create websites out of it.
-
-Yeah, that's all for now.
+17 y.o. web developer. I code on paper and create websites out of it.
+capturing specks of the world through my lens. data hoarder.
+follower of Christ.
 
 <br>
 
