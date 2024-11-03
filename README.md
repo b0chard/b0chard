@@ -4,6 +4,21 @@
   <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode">
 </div>
 
+<div align="center">
+<picture>
+  <img height="250" src="assets/takagi.jfif">
+</picture>
+<picture>
+  <img height="250" src="assets/takagi-1.jfif">
+</picture>
+<picture>
+  <img height="250" src="assets/takagi-2.jfif">
+</picture>
+<picture>
+  <img height="250" src="assets/takagi-3.jfif">
+</picture>
+</div>
+
 ## About Me
 I code on paper and create websites out of it.
 
