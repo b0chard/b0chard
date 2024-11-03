@@ -1,7 +1,3 @@
-<picture>
-  <img src="assets/takagi-1.jfif" height="150" align="right">
-</picture>
-
 # Hello World!
 
 <div align="center">
@@ -15,9 +11,20 @@ Yeah, that's all for now.
 
 <br>
 
-## Projects
+<details open>
+<summary><h2>Projects</h2></summary>
+<hr>
+<div>
+  <picture>
+    <img src="assets/website.jpg" height="150" alt="no image yet">
+  </picture>
+  
+  ### ![My Personal Website](https://github.com/bocharudo/personal-website)
+  this is my simple website.
+  made from hand-coded HTML, CSS, and JavaScript!
+</div>
 
----
+</details>
 
 <br>
 <br>
