@@ -11,21 +11,18 @@ Yeah, that's all for now.
 
 <br>
 
-<details open>
-<summary><h2>Projects</h2></summary>
-<hr>
-<div>
-  <picture>
-    <img src="assets/website.jpg" height="150" alt="no image yet">
-  </picture>
-  
-  ### ![My Personal Website](https://github.com/bocharudo/personal-website)
-  this is my simple website.
-  made from hand-coded HTML, CSS, and JavaScript!
+## Statistics
+<div align="center">
+<img height=200 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bocharudo&theme=tokyonight">
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=bocharudo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" draggable="false">
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bocharudo&theme=tokyonight&layout=compact&hide_border=true" draggable="false">
+<img height=200 src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bocharudo&theme=tokyonight">
+<a href="http://www.github.com/bocharudo">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bocharudo&stroke=ffffff&background=1a1b27&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</a>
 </div>
 
-</details>
-
+<br>
 <br>
 <br>
 
