@@ -1,7 +1,7 @@
 # Hello World!
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,c,vscode">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,php,c,vscode">
 </div>
 
 <br>
