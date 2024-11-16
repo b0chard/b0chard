@@ -22,7 +22,7 @@
 </div>
 
 ## About Me
-<p>17 y.o. web developer. (I don't know what to put here. I'll update this once I thought of something good.)</p>p
+<p>17 y.o. web developer. (I don't know what to put here. I'll update this once I thought of something good.)</p>
 
 <br>
 
