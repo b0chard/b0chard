@@ -22,13 +22,7 @@
 </div>
 
 ## About Me
-- 17 y.o. web developer.
-- crafting websites out of pen and paper.
-- well... anime watcher.
-- music listener, mostly japanese songs.
-- capturing specks of the world through my lens.
-- data hoarder.
-- follower of Christ.
+<p>17 y.o. web developer. (I don't know what to put here. I'll update this once I thought of something good.)</p>p
 
 <br>
 
