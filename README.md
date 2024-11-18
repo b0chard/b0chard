@@ -1,26 +1,29 @@
 # Hello World!
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode">
+<picture>
+  <img align="right" height="200" src="assets/nasa.jpg">
+</picture>
+<!-- <picture>
+  <img align="right" height="200" src="assets/takagi-1.jfif">
+</picture>
+<picture>
+  <img align="right" height="200" src="assets/takagi-2.jfif">
+</picture>
+<picture>
+  <img align="right" height="200" src="assets/takagi-3.jfif">
+</picture> -->
+
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&perline=3" />
+  </a>
 </div>
 
-<!-- <div align="center">
-<picture>
-  <img height="250" src="assets/takagi.jfif">
-</picture>
-<picture>
-  <img height="250" src="assets/takagi-1.jfif">
-</picture>
-<picture>
-  <img height="250" src="assets/takagi-2.jfif">
-</picture>
-<picture>
-  <img height="250" src="assets/takagi-3.jfif">
-</picture>
-</div> -->
+<br>
+<br>
 
 ## About Me
-<p>17 y.o. web developer. (I don't know what to put here. I'll update this once I thought of something good.)</p>
+<p>17 y.o. Filipino web developer creating <strong>'useful'</strong> things.</p>
 
 <br>
 
