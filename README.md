@@ -1,17 +1,8 @@
 # Hello World!
 
 <picture>
-  <img align="right" height="200" src="https://avatars.githubusercontent.com/u/136299953?v=4">
+  <img align="right" height="175" src="https://avatars.githubusercontent.com/u/136299953">
 </picture>
-<!-- <picture>
-  <img align="right" height="200" src="assets/takagi-1.jfif">
-</picture>
-<picture>
-  <img align="right" height="200" src="assets/takagi-2.jfif">
-</picture>
-<picture>
-  <img align="right" height="200" src="assets/takagi-3.jfif">
-</picture> -->
 
 <div align="left">
   <a href="https://skillicons.dev">
@@ -20,12 +11,12 @@
 </div>
 
 <br>
-<br>
 
 ## About Me
-<p>17 y.o. Filipino web developer creating <strong>'useful'</strong> things.</p>
+<code>17 y.o. Filipino web developer creating <strong>"useful"</strong> things and putting it on the internet.
+Most of the time, i don't really know what I'm doing. But once a code works - I won't dare touching it anymore.
+And also... am I the only one who codes on paper and create stuffs out of it?</code>
 
-<br>
 
 ## Statistics
 <div align="center">
