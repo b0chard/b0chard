@@ -4,9 +4,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode">
 </div>
 
-<br>
-
-<div align="center">
+<!-- <div align="center">
 <picture>
   <img height="250" src="assets/takagi.jfif">
 </picture>
@@ -19,7 +17,7 @@
 <picture>
   <img height="250" src="assets/takagi-3.jfif">
 </picture>
-</div>
+</div> -->
 
 ## About Me
 <p>17 y.o. web developer. (I don't know what to put here. I'll update this once I thought of something good.)</p>
