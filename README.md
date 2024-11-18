@@ -1,7 +1,7 @@
 # Hello World!
 
 <picture>
-  <img align="right" height="200" src="assets/nasa.jpg">
+  <img align="right" height="200" src="https://avatars.githubusercontent.com/u/136299953?v=4">
 </picture>
 <!-- <picture>
   <img align="right" height="200" src="assets/takagi-1.jfif">
