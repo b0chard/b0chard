@@ -13,11 +13,14 @@
 <br>
 
 ## 🙂 About Me
-<code>17 y.o. Filipino web developer creating <strong>"useful"</strong> things and putting it on the internet.</code>
+> [!NOTE]
+> 17 y.o. Filipino web developer creating <strong>"useful"</strong> stuffs and putting it on the internet.</p>
 
-<code>Most of the time, i don't really know what I'm doing. But once a code works - I won't dare touching it anymore.</code>
+> [!WARNING]
+> Most of the time, i don't really know what I'm doing. But once a code works - I won't dare touching it anymore.
 
-<code>And also... am I the only one who codes on paper and create stuffs out of it?</code>
+> [!IMPORTANT]
+> And also... am I the only one who codes on paper and create stuffs out of it?
 
 <br>
 
@@ -26,6 +29,12 @@
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bocharudo&theme=tokyonight&layout=compact&hide_border=true" draggable="false">
 <img height=150 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bocharudo&theme=tokyonight">
 </div>
+
+## 🎯 Plans
+- [ ] finsih v4 of my website
+- [ ] get a freelance web dev job
+- [ ] learn japanese
+- [ ] be a better person
 
 <br>
 <br>
