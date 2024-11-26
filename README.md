@@ -1,4 +1,4 @@
-# Hello World!
+# Hello, World!
 
 <picture>
   <img align="right" height="150" src="https://avatars.githubusercontent.com/u/136299953">
@@ -31,8 +31,8 @@
 </div>
 
 ## 🎯 Plans
-- [ ] finsih v4 of my website
-- [ ] get a freelance web dev job
+- [ ] finish v4 of my website (i haven't even started yet huhu)
+- [ ] get a freelance web dev job ~ desperately
 - [ ] learn japanese
 - [ ] be a better person
 
