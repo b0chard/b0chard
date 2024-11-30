@@ -21,7 +21,7 @@
 > [!NOTE]
 > And also... am I the only one who codes on paper and create stuffs out of it?
 
-> btw... I use light mode on my ide 😎
+> btw... I use light mode 😎
 
 <br>
 
@@ -31,11 +31,49 @@
 <img height=150 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bocharudo&theme=tokyonight">
 </div>
 
-## 🎯 Plans
+## 🎯 Plans  
+<details open>
+<summary><h3>2024</h3></summary>
+  
 - [ ] finish v4 of my website (i haven't even started yet huhu)
 - [ ] get a freelance web dev job ~ desperately
 - [ ] learn japanese
-- [ ] be a better person
+- [ ] create a programming club at school
+</details>
+
+<br>
+
+## ❓ Want to see something awesome?
+<details><summary>Click me! 😉</summary><br>
+  <details><summary>your sure wanna see this?</summary><br>
+    <details><summary>I mean... you 100% sure?</summary><br>
+      <details><summary>If you still insist... I have nothing to do with it.</summary><br>
+        <details><summary>don't say I haven't warned you!</summary><br>
+          <details><summary>because I DID!!!</summary><br>
+            <details><summary>Okay, let's start the countdown...</summary><br>
+              <details><summary>count with me...</summary><br>
+                <details><summary>5</summary><br>
+                  <details><summary>4</summary><br>
+                    <details><summary>3</summary><br>
+                      <details><summary>2</summary><br>
+                        <details><summary>1</summary><br>
+                          <details><summary><h3>I can't believe you'd waste such valuable time!</h3></summary>
+                            you sad? don't worry, here's the link
+                            <a href="https://youtu.be/xvFZjo5PgG0?si=ObfjPrv_NnP0sMTl"><i>click me, this is something awesome!</i></a>
+                          </details>
+                        </details>
+                      </details>
+                    </details>
+                  </details>
+                </details>
+              </details>
+            </details>
+          </details>
+        </details>
+      </details>
+    </details>
+  </details>
+</details>
 
 <br>
 <br>
