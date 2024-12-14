@@ -38,6 +38,11 @@
 - [ ] finish v4 of my website (i haven't even started yet huhu)
 - [ ] get a freelance web dev job ~ desperately
 - [ ] learn japanese
+</details>
+
+<details>
+<summary><h3>2025</h3></summary>
+  
 - [ ] create a programming club at school
 </details>
 
