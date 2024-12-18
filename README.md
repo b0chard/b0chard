@@ -13,15 +13,12 @@
 <br>
 
 ## 🙂 About Me
-> 17 y.o. Filipino web developer creating <strong>"useful"</strong> stuffs and putting it on the internet.</p>
+17 y.o. Filipino web developer creating <strong>"useful"</strong> stuffs and putting it on the internet.</p>
 
 > [!WARNING]
 > Most of the time, i don't really know what I'm doing. But once a code works - I won't dare touching it anymore.
 
-> [!NOTE]
-> And also... am I the only one who codes on paper and create stuffs out of it?
-
-> btw... I use light mode 😎
+btw... I use light mode 😎
 
 <br>
 
