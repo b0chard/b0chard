@@ -33,7 +33,7 @@ btw... I use light mode 😎
 <summary><h3>2024</h3></summary>
   
 - [ ] finish v4 of my website (i haven't even started yet huhu)
-- [ ] get a freelance web dev job ~ desperately
+- [x] get a freelance web dev job ~ desperately
 - [ ] learn japanese
 </details>
 
