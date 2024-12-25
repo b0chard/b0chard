@@ -41,6 +41,8 @@ btw... I use light mode 😎
 <summary><h3>2025</h3></summary>
   
 - [ ] create a programming club at school
+- [ ] purchase laptop for uni
+- [ ] build a website for my high school
 </details>
 
 <br>
