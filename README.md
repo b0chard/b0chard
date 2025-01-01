@@ -1,6 +1,10 @@
 # Hello, World!
 
 <picture>
+  <img align="center" height="200" src="images/tsukasa.gif">
+</picture>
+
+<picture>
   <img align="right" height="150" src="https://avatars.githubusercontent.com/u/136299953">
 </picture>
 
