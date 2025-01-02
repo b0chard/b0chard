@@ -1,22 +1,23 @@
 # Hello, World!
 
 <picture>
-  <img align="center" height="200" src="images/tsukasa.gif">
+  <img height="" width="100%" src="images/tsukasa.gif">
+</picture>
+
+<br>
+<hr>
+<br>
+
+<picture>
+  <img src="https://skillicons.dev/icons?i=html,css,js">
 </picture>
 
 <picture>
-  <img align="right" height="150" src="https://avatars.githubusercontent.com/u/136299953">
+  <img align="right" src="https://skillicons.dev/icons?i=git,github,vscode">
 </picture>
-
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&perline=3" />
-  </a>
-</div>
 
 <br>
 
-## 🙂 About Me
 17 y.o. Filipino web developer creating <strong>"useful"</strong> stuffs and putting it on the internet.</p>
 
 > [!WARNING]
