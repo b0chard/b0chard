@@ -34,19 +34,19 @@ btw... I use light mode 😎
 
 ## 🎯 Plans  
 <details open>
-<summary><h3>2024</h3></summary>
-  
-- [ ] finish v4 of my website (i haven't even started yet huhu)
-- [x] get a freelance web dev job ~ desperately
-- [ ] learn japanese
-</details>
-
-<details>
 <summary><h3>2025</h3></summary>
   
 - [ ] create a programming club at school
 - [ ] purchase laptop for uni
 - [ ] build a website for my high school
+</details>
+
+<details>
+<summary><h3>2024</h3></summary>
+  
+- [ ] finish v4 of my website (i haven't even started yet huhu)
+- [x] get a freelance web dev job ~ desperately
+- [ ] learn japanese
 </details>
 
 <br>
