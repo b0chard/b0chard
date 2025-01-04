@@ -36,7 +36,8 @@ btw... I use light mode 😎
 ## 🎯 Plans  
 <details open>
 <summary><h3>2025</h3></summary>
-  
+
+- [ ] 告白
 - [ ] create a programming club at school
 - [ ] purchase laptop for uni
 - [ ] build a website for my high school
