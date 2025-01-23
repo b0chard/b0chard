@@ -8,11 +8,11 @@
 <hr>
 
 <picture>
-  <img src="https://skillicons.dev/icons?i=html,css,js">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs">
 </picture>
 
 <picture>
-  <img align="right" src="https://skillicons.dev/icons?i=git,github,vscode">
+  <img align="right" src="https://skillicons.dev/icons?i=git,github,vscode,npm">
 </picture>
 
 <br>
