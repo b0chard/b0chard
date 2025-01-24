@@ -12,7 +12,7 @@
 </picture>
 
 <picture>
-  <img align="right" src="https://skillicons.dev/icons?i=git,github,vscode,npm">
+  <img align="right" src="https://skillicons.dev/icons?i=git,github,vscode,powershell,npm,cloudflare">
 </picture>
 
 <br>
