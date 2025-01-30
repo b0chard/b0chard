@@ -8,7 +8,7 @@
 <hr>
 
 <picture>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs">
 </picture>
 
 <picture>
