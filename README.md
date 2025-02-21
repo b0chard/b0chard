@@ -29,8 +29,8 @@ btw... I use light mode 😎
 
 ## 📊 Stats
 <div align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ametoresu&theme=tokyonight&layout=compact&hide_border=true" draggable="false">
-<img height=150 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ametoresu&theme=tokyonight">
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b0chard&theme=tokyonight&layout=compact&hide_border=true" draggable="false">
+<img height=150 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=b0chard&theme=tokyonight">
 </div>
 
 ## 🎯 Plans  
