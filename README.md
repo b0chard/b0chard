@@ -8,13 +8,14 @@
 <hr>
 
 <picture>
-  <img src="https://skillicons.dev/icons?i=html,css,js">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs">
 </picture>
 
 <picture>
-  <img align="right" src="https://skillicons.dev/icons?i=git,github,vscode">
+  <img align="right" src="https://skillicons.dev/icons?i=git,github,vscode,powershell,npm,cloudflare">
 </picture>
 
+<br>
 <br>
 
 17 y.o. Filipino web developer creating <strong>"useful"</strong> stuffs and putting it on the internet.</p>
@@ -28,14 +29,15 @@ btw... I use light mode 😎
 
 ## 📊 Stats
 <div align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ametoresu&theme=tokyonight&layout=compact&hide_border=true" draggable="false">
-<img height=150 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ametoresu&theme=tokyonight">
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b0chard&theme=tokyonight&layout=compact&hide_border=true" draggable="false">
+<img height=150 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=b0chard&theme=tokyonight">
 </div>
 
 ## 🎯 Plans  
 <details open>
 <summary><h3>2025</h3></summary>
-  
+
+- [ ] 告白
 - [ ] create a programming club at school
 - [ ] purchase laptop for uni
 - [ ] build a website for my high school
