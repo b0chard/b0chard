@@ -1,7 +1,7 @@
 # Hello, World!
 
 <picture>
-  <img height="" width="100%" src="images/tsukasa.gif">
+  <img align="center" width="100%" src="images/bluebox-blue-box.gif">
 </picture>
 
 <br>
