@@ -1,7 +1,7 @@
 # Hello, World!
 
 <picture>
-  <img align="center" width="100%" src="images/bluebox-blue-box.gif">
+  <img align="center" width="100%" src="images/blue-box-chinatsu-kano-4.gif">
 </picture>
 
 <br>
