@@ -1,13 +1,6 @@
 # Hello, World!
 
 <picture>
-  <img align="center" width="100%" src="images/blue-box-chinatsu-kano-4.gif">
-</picture>
-
-<br>
-<hr>
-
-<picture>
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs">
 </picture>
 
@@ -15,7 +8,6 @@
   <img align="right" src="https://skillicons.dev/icons?i=git,github,vscode,powershell,npm,cloudflare">
 </picture>
 
-<br>
 <br>
 
 17 y.o. Filipino web developer creating <strong>"useful" (kinda)</strong> stuffs and putting it on the internet.
