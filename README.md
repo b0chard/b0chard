@@ -10,16 +10,16 @@
 
 <br>
 
-17 y.o. Filipino web developer creating <strong>"useful" (kinda)</strong> stuffs and putting it on the internet.
+17 y.o. web developer creating ***"kinda useful"*** stuffs and putting it on the internet.
 
-I'm on my path learning mern stack - hopefully create more 'useful' stuffs lol.
+I'm on my path learning mern stack but barely progressing in nodejs and expressjs lol.
 
-My projects are mostly personal and hobby projects, view them on my repos, there are links there, click it and you'll see how they works.
+My projects are mostly for personal and hobby purposes, view them on my repos, there are links there, click it and you'll see how they works.
 
 > [!WARNING]
-> Most of the time, i don't really know what I'm doing. But once a code works - I won't dare touching it anymore.
+> Most of the time, i don't really know what I'm doing. But once a code works— I won't dare touching it anymore.
 
-btw... I use light mode 😎
+btw...I'm and avid light mode user 😎
 
 <br>
 
