@@ -15,7 +15,7 @@
 
 I'm on my path learning mern stack but barely progressing in nodejs and expressjs lol.
 
-My projects are mostly for personal and hobby purposes, view them on my repos, there are links there, click it and you'll see how they works.
+My projects are mostly for personal and hobby purposes. If you would like to see them, just view them on my repos, there are links there, click it and you'll see how they works.
 
 > [!WARNING]
 > Most of the time, i don't really know what I'm doing. But once a code works— I won't dare touching it anymore.
