@@ -10,7 +10,6 @@
 
 <br>
 <br>
-<br>
 
 17 y.o. web developer creating ***"kinda useful"*** stuffs and putting it on the internet.
 
