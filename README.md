@@ -1,15 +1,16 @@
 # Hello, World!
 
-<picture>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs">
-</picture>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=b0chard&abbreviated=true&color=blue&style=plastic">
+</div>
 
-<picture>
-  <img align="right" src="https://skillicons.dev/icons?i=git,github,vscode,powershell,npm,cloudflare">
-</picture>
+<hr>
 
-<br>
-<br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,vscode,powershell,npm,cloudflare">
+</div>
+
+<hr>
 
 17 y.o. web developer creating ***"kinda useful"*** stuffs and putting it on the internet.
 
