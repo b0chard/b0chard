@@ -1,16 +1,16 @@
-# Hello, World!
+# hello, world!
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=b0chard&abbreviated=true&color=blue&style=plastic">
 </div>
 
-<hr>
+<br>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,vscode,powershell,npm,cloudflare">
 </div>
 
-<hr>
+<br>
 
 17 y.o. web developer creating ***"kinda useful"*** stuffs and putting it on the internet.
 
@@ -27,8 +27,8 @@ btw...I'm and avid light mode user 😎
 
 ## 📊 Stats
 <div align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b0chard&theme=tokyonight&layout=compact&hide_border=true" draggable="false">
-<img height=150 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=b0chard&theme=tokyonight">
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b0chard&theme=swift&layout=compact&hide_border=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" draggable="false">
+<img height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=b0chard&theme=swift">
 </div>
 
 ## 🎯 Plans  
