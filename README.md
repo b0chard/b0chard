@@ -19,7 +19,6 @@ My projects are mostly for personal and hobby purposes. If you would like to see
 > [!WARNING]
 > Most of the time, i don't really know what I'm doing. But once a code works— I won't dare touching it anymore.
 
-***~i code on light mode~***
 <br>
 
 ## 📊 Stats
