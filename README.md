@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,vscode,powershell,npm,cloudflare">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,powershell,cloudflare">
 </div>
 
 <br>
