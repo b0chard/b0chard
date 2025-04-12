@@ -1,7 +1,7 @@
 # hello, world!
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,linux,mint,vscode,powershell,cloudflare">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,git,github,linux,mint,vscode,powershell,cloudflare">
 </div>
 
 <br>
