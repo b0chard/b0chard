@@ -1,12 +1,6 @@
 # hello, world!
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=b0chard&abbreviated=true&color=blue&style=plastic">
-</div>
-
-<br>
-
-<div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,linux,mint,vscode,powershell,cloudflare">
 </div>
 
