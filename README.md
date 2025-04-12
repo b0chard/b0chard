@@ -7,14 +7,14 @@
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,powershell,cloudflare">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,linux,mint,vscode,powershell,cloudflare">
 </div>
 
 <br>
 
-17 y.o. web developer creating ***"kinda useful"*** stuffs and putting it on the internet.
+17 y.o. web developer building ***"somewhat useful"*** stuffs and putting it out on the internet.
 
-My projects are for personal and hobby purposes for now. If you would like to view them, just check them out on my repos. There are links there, click it and you'll see how they works.
+My projects are for personal and hobby purposes only (for now). If you would like to view them, just check them out on my repos. There are links there, click it and you'll see how they work.
 
 > [!WARNING]
 > Most of the time, i don't really know what I'm doing. But once a code works— I won't dare touching it anymore.
