@@ -1,7 +1,7 @@
 # hello, world!
 
 <div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,php,git,github,linux,mint,bash,vscode,cloudflare,arduino&perline=7&titles=true">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,php,git,github,linux,mint,bash,vscode,cloudflare,arduino&theme=dark">
 </div>
 
 <br>
