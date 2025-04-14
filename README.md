@@ -58,7 +58,7 @@ I can't afford hosting for php websites, so some projects doesn't have specified
                       <details><summary>2</summary><br>
                         <details><summary>1</summary><br>
                           <details><summary><h3>I can't believe you'd waste such valuable time!</h3></summary>
-                            you sad? don't worry, here's the link <i><a href="https://tinyurl.com/55rayj5s">click me, this is something awesome!</a></i>
+                            you sad? don't worry, here's the link <i><a href="https://tinyurl.com/d3finitely-n0t-suspici0us">click me, this is something awesome!</a></i>
                           </details>
                         </details>
                       </details>
