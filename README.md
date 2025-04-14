@@ -17,13 +17,13 @@ I can't afford hosting for php websites, so some projects doesn't have specified
 
 <br>
 
-## 📊 Stats
+## :bar_chart: Stats
 <div align="center">
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b0chard&theme=swift&layout=compact&hide_border=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" draggable="false">
 <img height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=b0chard&theme=swift">
 </div>
 
-## 🎯 Plans  
+## :dart: Plans  
 <details open>
 <summary><h3>2025</h3></summary>
 
@@ -43,8 +43,8 @@ I can't afford hosting for php websites, so some projects doesn't have specified
 
 <br>
 
-## ❓ Want to see something awesome?
-<details><summary>Click me! 😉</summary><br>
+## :question: Want to see something awesome?
+<details><summary>Click me! :wink:</summary><br>
   <details><summary>your sure wanna see this?</summary><br>
     <details><summary>I mean... you 100% sure?</summary><br>
       <details><summary>If you still insist... I have nothing to do with it.</summary><br>
@@ -58,8 +58,7 @@ I can't afford hosting for php websites, so some projects doesn't have specified
                       <details><summary>2</summary><br>
                         <details><summary>1</summary><br>
                           <details><summary><h3>I can't believe you'd waste such valuable time!</h3></summary>
-                            you sad? don't worry, here's the link
-                            <a href="https://youtu.be/xvFZjo5PgG0?si=ObfjPrv_NnP0sMTl"><i>click me, this is something awesome!</i></a>
+                            you sad? don't worry, here's the link <i><a href="https://tinyurl.com/55rayj5s">click me, this is something awesome!</a></i>
                           </details>
                         </details>
                       </details>
