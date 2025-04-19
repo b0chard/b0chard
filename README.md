@@ -10,7 +10,7 @@
 
 My projects are for personal and hobby purposes only (for now). If you'd like to view them, free to check them out!. There are links provided there, click and you'll see how they work.
 
-I can't afford hosting for php websites, so some projects doesn't have specified links. if you like to test them, try it on your local server. thank youu!!
+~~I can't afford hosting for php websites, so some projects doesn't have specified links. if you like to test them, try it on your local server. thank youu!!~~ _I got a free php web hosting!! :blush:_
 
 > [!WARNING]
 > Most of the time, i don't really know what I'm doing. But once a code works— I won't dare touching it anymore.
