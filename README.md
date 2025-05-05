@@ -10,7 +10,7 @@
 
 My projects are for personal and hobby purpose (for now). Feel free to check them out. Links are provided.
 
-> Once a code works—I won't dare touching it anymore. :blush:
+> Once a code work—I won't dare touching it anymore. :blush:
 
 <br>
 
