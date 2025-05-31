@@ -5,7 +5,7 @@
 
 <br>
 
-17 y.o. self-learn web developer, building _"somewhat useful"_ stuffs and putting it out on the internet.
+18 y.o. self-learn web developer, building _"somewhat useful"_ stuffs and putting it out on the internet.
 
 My projects are for personal and hobby purpose (for now). Feel free to check them out. Links are provided.
 
