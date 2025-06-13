@@ -5,7 +5,7 @@
 
 <br>
 
-18 y.o. self-learn coder/developer/programmer(idk and idc), building _"somewhat useful"_ stuffs and putting it out on the internet.
+18 y.o. self-learn coder/developer/programmer(idk what i should be called as, and idc), building _"somewhat useful"_ stuffs and putting it out on the internet.
 
 My projects are for personal and hobby purposes (for now). Feel free to check them out. Links are provided.
 
