@@ -1,6 +1,6 @@
 # hello, world!
 <div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=c,html,css,js,php,mysql,apache,git,github,linux,mint,bash,vscode,cloudflare,firefox,duckduckgo,arduino&theme=dark&perline=11">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=c,html,css,js,php,mysql,apache,git,github,linux,mint,bash,cloudflare,firefox,duckduckgo,arduino&theme=dark&perline=11">
 </div>
 
 <br>
