@@ -9,7 +9,7 @@
 
 building _"somewhat useful"_ stuffs and putting it out on the internet.
 
-i mostly inclined doing backend. i work frequently with php and soon with c.
+i mostly inclined doing backend and scripting. i work frequently with php, and bash, then soon with c.
 
 check out my repositories, some of them have links provided for you to preview. hope you'd like them.
 
